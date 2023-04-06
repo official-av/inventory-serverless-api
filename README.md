@@ -8,7 +8,7 @@ Serverless Framework based Backend to demonstrate Inventory Management. Top Feat
 5. Serverless MicroServices based architecture
 
 
-For demo: http://inv-web-ui.s3-website-us-east-1.amazonaws.com/ Reach out to me at anmolvashisthaav@gmail.com for demo credentials
+For demo: http://inv-web-ui.s3-website-us-east-1.amazonaws.com/ Reach out to me at for demo credentials
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
 For detailed instructions, please refer to the [documentation](https://www.serverless.com/framework/docs/providers/aws/).
